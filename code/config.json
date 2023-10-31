@@ -1,0 +1,7 @@
+{
+    "classes":[0,1],
+    "path":"../data/",
+    "label_frac":1.0,
+    "save_path":"../data/models/"
+
+}
